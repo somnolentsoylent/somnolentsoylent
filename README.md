@@ -1,6 +1,6 @@
 # Sembly
 
-> Pithy project description
+> Share events with friends
 
 ## Team
 
@@ -10,7 +10,6 @@
 
 ## Table of Contents
 
-1. [Usage](#Usage)
 1. [Requirements](#requirements)
 1. [Development](#development)
     1. [Installing Dependencies](#installing-dependencies)
@@ -18,9 +17,6 @@
 1. [Team](#team)
 1. [Contributing](#contributing)
 
-## Usage
-
-> Some usage instructions
 
 ## Requirements
 
@@ -81,10 +77,6 @@ and in another terminal:
 ```sh
 npm run build
 ```
-
-### Roadmap
-
-View the project roadmap [here](LINK_TO_PROJECT_ISSUES)
 
 
 ## Contributing
